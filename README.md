@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### My GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=ergeakova&show_icons=true&theme=radical)](https://github.com/ergeakova)
+[![erge Stats](https://github-readme-stats.vercel.app/api?username=ergeakova&show_icons=true&theme=radical)](https://github.com/ergeakova)
 ##
 ### My Top Langs:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ergeakova&layout=compact&theme=radical)](https://github.com/ergeakova)
