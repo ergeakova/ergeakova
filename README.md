@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 ### My GitHub Stats:
 [![erge Stats](https://github-readme-stats.vercel.app/api?username=ergeakova&show_icons=true&theme=radical)](https://github.com/ergeakova)
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### My Top Langs:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ergeakova&layout=compact&theme=radical)](https://github.com/ergeakova)
 ##
--->
+
 ### MY Streak Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ergeakova&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ergeakova)
 
