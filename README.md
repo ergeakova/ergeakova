@@ -1,10 +1,7 @@
 <h1  align="center">Hi 👋, I'm Erge</h1>
 
 ### My GitHub Stats:
-[![erge Stats](https://github-readme-stats.vercel.app/api?username=ergeakova&show_icons=true&theme=radical)](https://github.com/ergeakova)
-##
-### My Top Langs:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ergeakova&layout=compact&theme=radical)](https://github.com/ergeakova)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ergeakova&show_icons=true&theme=radical)](https://github.com/ergeakova)
 ##
 
 ### MY Streak Stats:
